@@ -14,6 +14,6 @@ class Solution {
             }
         }
 
-        return count == 0; // 올바른 괄호면 true, 아니면 false
+        return count == 0; 
     }
 }
